@@ -25,7 +25,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Adarsh kumar Jha</p>
               <p className="grid-subtext">
-                 3rd-year Computer Science student at VIT Bhopal with a strong interest in software development. Currently exploring the MERN stack and building full-stack web applications. Also familiar with 3D modeling using Blender. Passionate about learning new technologies and creating practical, user-focused solutions.
+                 3rd-year Computer Science student  with a strong interest in software development. Currently exploring the MERN stack and building full-stack web applications. Also familiar with 3D modeling using Blender. Passionate about learning new technologies and creating practical, user-focused solutions.
 
 
               </p>
